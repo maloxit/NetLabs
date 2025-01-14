@@ -1,0 +1,23 @@
+{
+	"screen_width": 1280,
+	"screen_height": 720,
+	"screen_offset_left": 20,
+	"screen_offset_right": 20,
+	"screen_offset_top": 20,
+	"screen_offset_bottom": 20,
+
+	"node_min_dist_between": 20,
+	"node_min_radius": 100,
+	"node_max_radius": 400,
+	"node_placement_method": "random",
+	"node_placement_random_additional_points": 25,
+
+	"player_position": [100, 100],
+	"target_position": [100, 100],
+	"player_colors": [[127, 127, 127, 100], [0, 0, 255, 255]],
+
+	"background_img": "bin/i.bmp",
+	"node_img": "bin/computer.png",
+	"goal_img": "bin/goal.png",
+	"player_img": "bin/player.png"
+}
